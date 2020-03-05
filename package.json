@@ -1,7 +1,7 @@
 {
-  "name": "MinecraftAssetOrganizer",
+  "name": "MinecraftAssetBeautifier",
   "version": "1.0.0",
-  "description": "",
+  "description": "Rename and beautify .minecraft/assets/objects directory",
   "main": "index.js",
   "author": "Eric Golde",
   "license": "See https://github.com/egold555/License",

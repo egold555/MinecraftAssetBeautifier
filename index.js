@@ -1,6 +1,6 @@
 /*
 
-Minecraft Asset Organiser v1
+Minecraft Asset Beautifier v1
 Created @ 3/4/2020 by Eric Golde
 
 */
