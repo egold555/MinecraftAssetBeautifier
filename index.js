@@ -40,7 +40,7 @@ for (var i = 0; i < keys.length; i++) {
     //mkdirp.sync("export/" + newFolderName);
 
     fs.copySync(sourceFile, dir_export + "/" + fileName);
-    log("Exported: " + chalk.yellow(hash) + chalk.white(' to ') + chalk.cyan(fileName));
+    log("Renamed " + chalk.yellow(hash) + chalk.white(' to ') + chalk.cyan(fileName));
 }
 
-log(chalk.green("Successfully exported " + keys.length + " files."))
+log(chalk.green("Successfully renamed " + keys.length + " files."))
