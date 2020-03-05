@@ -1,0 +1,12 @@
+{
+  "name": "MinecraftAssetOrganizer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Eric Golde",
+  "license": "See https://github.com/egold555/License",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "fs-extra": "^8.1.0"
+  }
+}
